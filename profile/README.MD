@@ -4,7 +4,7 @@ Se você deseja ter uma documentação completa sobre como desenvolver um bot pa
 > A organização é composta por muitos membros e colaboradores, e você pode ser um deles. :D
 
 # ⭐ Destaque
-Qual a diferença e o destaque desse projeto em meios há tantos outros com uma proposta de documentação?
+Qual a diferença e o destaque desse projeto em meio há tantos outros com uma proposta de documentação?
 
 > R. Todos as documentações foram revisadas por colaboradores e desenvolvedores qualificados e com experiência no desenvolvimento de bots. Tendo uma proposta detalhada sobre o porquê de cada ação estar sendo executada, dando exemplos e explicações.
 
