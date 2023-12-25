@@ -11,3 +11,10 @@ Qual a diferença e o destaque desse projeto em meio há tantos outros com uma p
 # ❤️ Contribuição
 
 > R. Você deseja contribuir com o projeto? Sinta-se a vontade para compartilhar conhecimento e ajudar as pessoas nessa jornada.
+
+# 🤝 Contribuidores
+
+<a href="https://github.com/theguideforyou/x/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=theguideforyou/x" />
+</a>
+
