@@ -1,13 +1,16 @@
 # 🎯 Propósito
-Se você deseja ter uma documentação completa sobre como desenvolver um bot para Discord na linguagem que gosta, acabou de encontrar o caminho certo. Essa organização é composta por desenvolvedores experientes que já desenvolveram bots muitas vezes — seja para um projeto pessoal ou para algum cliente —, tornado-os mais do que capacitados para ensinar e documentar passo a passo de como você — iniciante ou não — possa desenvolver seu bot.
+Se você deseja ter uma documentação completa sobre como desenvolver um bot para Discord na linguagem que gosta, acabou de encontrar o caminho certo. Essa organização é composta por desenvolvedores experientes que já desenvolveram bots muitas vezes — seja para um projeto pessoal ou para algum cliente —, tornado-os mais do que capacitados para ensinar e documentar passo a passo de como você — iniciante ou não — pode desenvolver seu bot.
 
-> A organização é composta por muitos membros e colaboradores, e você pode ser. :D
+> A organização é composta por muitos membros e colaboradores, e você pode ser um deles. :D
 
 # ⭐ Destaque
-Qual a diferença e o destaque desse projeto em meios há tantos outros com uma proposta de documentação?
+Qual a diferença e o destaque desse projeto em meio há tantos outros com uma proposta de documentação?
 
 > R. Todos as documentações foram revisadas por colaboradores e desenvolvedores qualificados e com experiência no desenvolvimento de bots. Tendo uma proposta detalhada sobre o porquê de cada ação estar sendo executada, dando exemplos e explicações.
 
 # ❤️ Contribuição
+<<<<<<< HEAD
 
 > R. Você deseja contribuir com o projeto? Sinta-se a vontade para compartilhar conhecimento e ajudar as pessoas nessa jornada.
+=======
+>>>>>>> 2782f868d8857a199046c43dfdba52cc6372e2e8
