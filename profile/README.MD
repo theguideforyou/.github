@@ -9,8 +9,5 @@ Qual a diferença e o destaque desse projeto em meio há tantos outros com uma p
 > R. Todos as documentações foram revisadas por colaboradores e desenvolvedores qualificados e com experiência no desenvolvimento de bots. Tendo uma proposta detalhada sobre o porquê de cada ação estar sendo executada, dando exemplos e explicações.
 
 # ❤️ Contribuição
-<<<<<<< HEAD
 
 > R. Você deseja contribuir com o projeto? Sinta-se a vontade para compartilhar conhecimento e ajudar as pessoas nessa jornada.
-=======
->>>>>>> 2782f868d8857a199046c43dfdba52cc6372e2e8
