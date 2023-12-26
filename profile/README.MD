@@ -12,7 +12,7 @@ Todos as documentações foram revisadas por colaboradores e desenvolvedores qua
 
 # ❤️ Contribuição
 
-Isso mesmo, esse projeto aceita contribuição de todos aqueles que acabaram gostando da proposta. Então sinta-se a vontade de contribuir da forma que puder. Lembrando que os nosso mantenedores irão analisar e verificar se tudo está dentro do conforme.
+Isso mesmo, esse projeto aceita contribuição de todos aqueles que acabaram gostando da proposta. Então sinta-se a vontade de contribuir da forma que puder. Lembrando que os nossos mantenedores irão analisar e verificar se tudo está dentro do conforme.
 
 > Para manter um código organizado e autêntico, por favor, não copie códigos e simplesmente dê um "Commit". Os nossos colaboradores/mantenedores são instruídos a não aceitarem gambiarras.
 
