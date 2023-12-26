@@ -6,15 +6,20 @@ Se você deseja ter uma documentação completa sobre como desenvolver um bot pa
 # ⭐ Destaque
 Qual a diferença e o destaque desse projeto em meio há tantos outros com uma proposta de documentação?
 
-> R. Todos as documentações foram revisadas por colaboradores e desenvolvedores qualificados e com experiência no desenvolvimento de bots. Tendo uma proposta detalhada sobre o porquê de cada ação estar sendo executada, dando exemplos e explicações.
+Todos as documentações foram revisadas por colaboradores e desenvolvedores qualificados e com experiência no desenvolvimento de bots. Tendo uma proposta detalhada sobre o porquê de cada ação estar sendo executada, dando exemplos e explicações.
+
+> Organização, detalhes, estrutura, funcionalidade e código limpo são algumas das propostas desse repositório.
 
 # ❤️ Contribuição
 
-> R. Você deseja contribuir com o projeto? Sinta-se a vontade para compartilhar conhecimento e ajudar as pessoas nessa jornada.
+Isso mesmo, esse projeto aceita contribuição de todos aqueles que acabaram gostando da proposta. Então sinta-se a vontade de contribuir da forma que puder. Lembrando que os nosso mantenedores irão analisar e verificar se tudo está dentro do conforme.
+
+> Para manter um código organizado e autêntico, por favor, não copie códigos e simplesmente dê um "Commit". Os nossos colaboradores/mantenedores são instruídos a não aceitarem gambiarras.
 
 # 🤝 Contribuidores
+
+Eu não poderia deixar de colocar aqui todos os contribuidores dos principais repositórios do **TheGuideForYou**.
 
 <a href="https://github.com/theguideforyou/x/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=theguideforyou/x" />
 </a>
-
