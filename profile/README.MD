@@ -22,4 +22,5 @@ Eu não poderia deixar de colocar aqui todos os contribuidores dos principais re
 
 <a href="https://github.com/theguideforyou/x/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=theguideforyou/theguideforyou.github.io" />
+  <img src="https://contrib.rocks/image?repo=theguideforyou/x" />
 </a>
