@@ -21,6 +21,6 @@ Isso mesmo, esse projeto aceita contribuição de todos aqueles que acabaram gos
 Eu não poderia deixar de colocar aqui todos os contribuidores dos principais repositórios do **TheGuideForYou**.
 
 <a href="https://github.com/theguideforyou/x/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=theguideforyou/theguideforyou.github.io" />
-  <img src="https://contrib.rocks/image?repo=theguideforyou/x" />
+  <img src="https://contrib.rocks/image?repo=theguideforyou/theguideforyou.github.io"/>
+  <img src="https://contrib.rocks/image?repo=theguideforyou/x"/>
 </a>
